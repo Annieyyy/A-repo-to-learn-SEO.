@@ -1,1 +1,4 @@
-# A-repo-to-learn-SEO.
+# learning SEO
+
+A repo to learn SEO
+
